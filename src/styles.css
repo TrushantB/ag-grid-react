@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ag-root-wrapper .ag-watermark {
+  display: none;
+}
+
+.ag-header-icon,
+.ag-header-cell-menu-button {
+  opacity: 1;
+}
